@@ -18,7 +18,7 @@ Aplikasi ini adalah sistem pemesanan jasa kurir online berbasis web yang memungk
 
 ## 🛠 Cara Penggunaan
 
-1. Buka aplikasi di browser melalui `localhost/latihansoal/`.
+1. Buka aplikasi di browser melalui `localhost`.
 2. Isi data pemesan: Nama dan No HP.
 3. Pilih jenis layanan kurir.
 4. Masukkan jarak pengiriman (dalam kilometer).
