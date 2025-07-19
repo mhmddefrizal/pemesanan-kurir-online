@@ -27,22 +27,6 @@ Aplikasi ini adalah sistem pemesanan jasa kurir online berbasis web yang memungk
 
 ---
 
-## 📁 Struktur Folder
-
-latihansoal/
-│
-├── index.php # File utama halaman pemesanan
-├── README.md # Dokumentasi proyek
-│
-├── css/
-│ └── bootstrap.css # File CSS Bootstrap
-│
-├── img/
-│ └── logo.png # Logo perusahaan
-│
-└── data/
-└── data.json # File untuk menyimpan data pemesanan
-
 ## 👨‍💻 Teknologi yang Digunakan
 
 - HTML & CSS (Bootstrap)
